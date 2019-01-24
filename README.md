@@ -1,8 +1,8 @@
 # Mobstacker
 This PLugin is not mine at all, this is just the version of the authors plugin that i corrected
 
-#Author
+## Author
 SwitftDevTeam1.
 
-#api
+## API Versions
 3.0.0, 3.5.6
