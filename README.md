@@ -1,9 +1,5 @@
 # Mobstacker
-This Plugin is not mine at all, 
-this is just the version of the authors plugin that I corrected.
-
-## Author
-SwitftDevTeam1.
+Working version of Mobstacker.
 
 ## API Versions
-3.0.0, 3.5.6
+3.0.0, 3.5.8, 4.0.0
