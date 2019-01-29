@@ -1,7 +1,7 @@
 
 name: MobStacker
-author: SwiftTheDev
+author: RaccoonUndercover
 version: 1.0.1
-api: 3.0.0, 3.5.6
+api: 3.0.0, 3.5.8, 4.0.0
 main: MobStacker\Loader
-description: A public working Mob Stacker plugin for faction servers
+description: A public working Mob Stacker plugin for any servers
