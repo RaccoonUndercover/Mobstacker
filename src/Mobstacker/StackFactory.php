@@ -1,6 +1,6 @@
 <?php
 
-namespace MobStacker\stacker;
+namespace MobStacker;
 
 use pocketmine\entity\Living;
 use pocketmine\entity\object\ItemEntity;
@@ -10,7 +10,7 @@ use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\IntTag;
 use pocketmine\Player;
 
-class StackFactory {
+class StackFactory{
 
 	public const TAG_STACK_DATA = "StackData";
 
