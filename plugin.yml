@@ -3,5 +3,5 @@ name: MobStacker
 author: RaccoonUndercover
 version: 1.0.1
 api: 3.0.0, 3.5.8, 4.0.0
-main: MobStacker\Main
+main: Mobstacker\Main
 description: A public working Mob Stacker plugin for any servers
