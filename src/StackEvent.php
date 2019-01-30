@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace MobStacker\stacker;
+namespace MobStacker;
 
 use pocketmine\Player;
 use pocketmine\entity\Living;
 use pocketmine\event\Listener;
 use pocketmine\event\entity\{EntityDamageEvent, EntitySpawnEvent, EntityMotionEvent};
 
-use MobStacker\MobStacker;
+use MobStacker;
 
 class StackEvent implements Listener{
 
