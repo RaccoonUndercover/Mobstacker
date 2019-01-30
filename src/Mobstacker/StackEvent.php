@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MobStacker;
+namespace Mobstacker;
 
 use pocketmine\Player;
 use pocketmine\entity\Living;
