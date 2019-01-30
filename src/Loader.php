@@ -1,8 +1,10 @@
 
 <?php
 namespace MobStacker;
+
 use pocketmine\plugin\PluginBase;
-class Loader extends PluginBase {
+
+class Main extends PluginBase {
 public function onLoad() : void{
     $this->getLogger()->info("Plugin is being enabled. Please wait..");
 }
