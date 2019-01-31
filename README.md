@@ -1,3 +1,5 @@
+[![](https://poggit.pmmp.io/shield.state/Mobstacker)](https://poggit.pmmp.io/p/Mobstacker)
+<a href="https://poggit.pmmp.io/p/Mobstacker"><img src="https://poggit.pmmp.io/shield.state/Mobstacker"></a>
 # Mobstacker
 Working version of Mobstacker.
 
